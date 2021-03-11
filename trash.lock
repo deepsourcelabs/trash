@@ -5,7 +5,7 @@ import:
   repo: https://github.com/StrongMonkey/glide.git
 - package: github.com/Masterminds/vcs
   version: v1.12.0
-- package: github.com/Sirupsen/logrus
+- package: github.com/sirupsen/logrus
   version: v0.10.0
 - package: github.com/cloudfoundry-incubator/candiedyaml
   version: 99c3df8
