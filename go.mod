@@ -11,12 +11,9 @@ require (
 	github.com/onsi/ginkgo v1.15.2 // indirect
 	github.com/onsi/gomega v1.11.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/rancher/trash v0.0.0-00010101000000-000000000000
 	github.com/sirupsen/logrus v0.10.0
 	github.com/stretchr/testify v1.1.3
 	github.com/urfave/cli v1.18.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v2 v2.4.0
 )
-
-replace github.com/rancher/trash => github.com/deepsourcelabs/trash v0.2.8
