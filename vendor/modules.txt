@@ -1,0 +1,46 @@
+# github.com/Masterminds/glide v0.13.3
+## explicit
+github.com/Masterminds/glide/cfg
+github.com/Masterminds/glide/godep
+github.com/Masterminds/glide/godep/strip
+github.com/Masterminds/glide/mirrors
+github.com/Masterminds/glide/msg
+github.com/Masterminds/glide/path
+github.com/Masterminds/glide/util
+# github.com/Masterminds/vcs v1.12.0
+## explicit
+github.com/Masterminds/vcs
+# github.com/cloudfoundry-incubator/candiedyaml v0.0.0-20160429080125-99c3df83b515
+## explicit
+github.com/cloudfoundry-incubator/candiedyaml
+# github.com/davecgh/go-spew v0.0.0-20151105211317-5215b55f46b2
+## explicit
+github.com/davecgh/go-spew/spew
+# github.com/mitchellh/go-homedir v0.0.0-20161203194507-b8bc1bf76747
+## explicit
+github.com/mitchellh/go-homedir
+# github.com/onsi/ginkgo v1.15.2
+## explicit
+# github.com/onsi/gomega v1.11.0
+## explicit
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+github.com/pmezard/go-difflib/difflib
+# github.com/sirupsen/logrus v0.10.0
+## explicit
+github.com/sirupsen/logrus
+# github.com/stretchr/testify v1.1.3
+## explicit
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/require
+# github.com/urfave/cli v1.18.0
+## explicit
+github.com/urfave/cli
+# golang.org/x/sys v0.0.0-20210112080510-489259a85091
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
+## explicit
+# gopkg.in/yaml.v2 v2.4.0
+## explicit
+gopkg.in/yaml.v2
