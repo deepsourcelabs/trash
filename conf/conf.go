@@ -7,8 +7,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Sirupsen/logrus"
 	yaml "github.com/cloudfoundry-incubator/candiedyaml"
+	"github.com/sirupsen/logrus"
 )
 
 type Conf struct {
